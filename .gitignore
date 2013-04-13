@@ -1,0 +1,8 @@
+*.hermes
+*.morph
+application/*
+!application/admin/*
+module/*
+!module/Hades/*
+!module/instruction.txt
+theme/*

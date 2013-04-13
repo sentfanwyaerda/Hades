@@ -1,0 +1,3 @@
+git clone https://github.com/sentfanwyaerda/FSnode.git
+git clone https://github.com/sentfanwyaerda/Hermes.git
+git clone https://github.com/sentfanwyaerda/Morpheus.git
