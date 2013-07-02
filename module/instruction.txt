@@ -2,3 +2,4 @@ git clone https://github.com/sentfanwyaerda/FSnode.git
 git clone https://github.com/sentfanwyaerda/Hermes.git
 git clone https://github.com/sentfanwyaerda/Morpheus.git
 git clone https://github.com/sentfanwyaerda/Heracles.git
+git clone https://github.com/sentfanwyaerda/UAPI.git
