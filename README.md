@@ -7,4 +7,4 @@ Hades
 ### Requires:
 - PHP 5
 - Apache (for ``.htaccess``)
-- Git (through commandline)
+- Git (*if* platform-wide version management is enabled, through commandline)
