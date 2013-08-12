@@ -1,0 +1,1 @@
+Warning: ``%document%`` is empty.
