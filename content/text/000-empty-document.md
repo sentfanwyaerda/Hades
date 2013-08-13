@@ -1,1 +1,1 @@
-Warning: ``%document%`` is empty.
+Warning: ``{document|{src}}`` is empty.
